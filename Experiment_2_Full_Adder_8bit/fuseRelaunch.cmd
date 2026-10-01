@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/VLSI/Experiment_2_Full_Adder_8bit/Experiment_2_Full_Adder_8bit_Test_Case_isim_beh.exe" -prj "/home/ise/VLSI/Experiment_2_Full_Adder_8bit/Experiment_2_Full_Adder_8bit_Test_Case_beh.prj" "work.Experiment_2_Full_Adder_8bit_Test_Case" 

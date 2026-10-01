@@ -1,0 +1,28 @@
+Command line:
+   Experiment_2_Full_Adder_8bit_Test_Case_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60224
+
+Thu Oct  1 16:07:33 2026
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 198.615 Meg
+
+ Total Signals          : 11
+ Total Nets             : 35
+ Total Signal Drivers   : 21
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 19
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 395
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 276.214 Meg
+
+Thu Oct  1 16:08:49 2026
+

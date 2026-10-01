@@ -1,0 +1,2 @@
+vhdl isim_temp "Experiment_2_Full_Adder_8bit.vhd"
+vhdl isim_temp "Experiment_2_Full_Adder_8bit_Test_Case.vhd"
