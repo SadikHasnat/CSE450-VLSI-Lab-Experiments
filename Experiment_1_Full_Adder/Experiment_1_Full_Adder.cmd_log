@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/Experiment_1_Full_Adder/Experiment_1_Full_Adder.xst" -ofn "/home/ise/VLSI/Experiment_1_Full_Adder/Experiment_1_Full_Adder.syr" 
+xst -intstyle ise -ifn "/home/ise/VLSI/Experiment_1_Full_Adder/Experiment_1_Full_Adder.xst" -ofn "/home/ise/VLSI/Experiment_1_Full_Adder/Experiment_1_Full_Adder.syr" 
