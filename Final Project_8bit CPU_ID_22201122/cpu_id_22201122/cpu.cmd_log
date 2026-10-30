@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/VLSI/cpu_id_22201122/cpu.xst" -ofn "/home/ise/VLSI/cpu_id_22201122/cpu.syr" 
+xst -intstyle ise -ifn "/home/ise/VLSI/cpu_id_22201122/cpu.xst" -ofn "/home/ise/VLSI/cpu_id_22201122/cpu.syr" 
